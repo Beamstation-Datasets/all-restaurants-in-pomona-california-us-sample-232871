@@ -1,0 +1,12 @@
+{
+  "export_job_id": "84a1c33c-d506-4e62-87ca-5cc87c222f6f",
+  "id_short": 232871,
+  "published_at": "2026-04-11T07:11:22Z",
+  "repo_name": "all-restaurants-in-pomona-california-us-sample-232871",
+  "sample_asset_name": "beamstation_232871_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/232871/beamstation_232871_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 22,
+  "sample_sha256": "cdfb3da9d794270e31cebc626de22e79628225ee813c3d76a5bf38f50e1841bd",
+  "sample_size_bytes": 100109,
+  "total_records": 229
+}
