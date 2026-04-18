@@ -1,6 +1,6 @@
 # All Restaurants in Pomona, California, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `232871` |
 | Location | Pomona |
 | Category | Restaurants |
-| Full dataset size | 229 records |
-| Free sample size | 22 records (9.61%) |
-| Last export | 2026-04-07T13:31:34.152148+00:00 |
+| Full dataset size | 242 records |
+| Free sample size | 24 records (9.92%) |
+| Last export | 2026-04-14T20:39:32.438036+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pomona-california-us-sample-232871/releases/download/sample-latest/beamstation_232871_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
